@@ -2,3 +2,10 @@
 - Learned about [AI Topic]
 - Implemented a small project on [Topic]
 
+## AI Log - March 31, 2025
+- understood [importance of diff ENVIRONMENT for diff projects]
+- anaconda installed
+- read [python datatypes & operators]
+
+## AI Log - March 31, 2025
+
