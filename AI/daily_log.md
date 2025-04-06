@@ -7,5 +7,11 @@
 - anaconda installed
 - read [python datatypes & operators]
 
-## AI Log - March 31, 2025
 
+
+- installed Miniconda3 using WSL
+- generated SSH key for github access from wsl
+ 
+
+## AI Log - April 06, 2025
+-Installed Miniconda3 
