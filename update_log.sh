@@ -6,7 +6,7 @@ echo "" >> DSA/daily_log.md
 echo "## AI Log - $DATE" >> AI/daily_log.md
 echo "-Installed Miniconda3 " >>AI/daily_log.md
 echo "## Development Log - $DATE" >> Development/daily_log.md
-echo "" >> Development/daily_log.md
+echo "-learnt about Bootstrap, why its useful, and building CRUD application using it " >> Development/daily_log.md
  git add .
 git commit -m "Updated logs for $DATE"
 git push origin main

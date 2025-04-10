@@ -19,3 +19,5 @@
 -Installed Miniconda3 
 ## AI Log - April 10, 2025
 -Installed Miniconda3 
+## AI Log - April 10, 2025
+-Installed Miniconda3 
