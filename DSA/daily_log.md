@@ -8,3 +8,8 @@
 - Learning GIT to log progress
 - Read [Arrays] from Apna College
 
+## DSA Log - April 12, 2025
+- wrote a medium blog on [why we feel happiness over justice is served to a stranger]
+- going to publish it on [17th april]
+- also will update it on [linked]
+
